@@ -1,0 +1,3 @@
+fact_url: https://catfact.ninja/facts?limit=
+fact_file: facts.txt
+max_facts: 10
